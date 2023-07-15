@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Times, serif;
+  color: white;
+  background-color: rgba(1, 158, 255, 0.683);
+}
+/* .container{
+  box-sizing: border-box;
+  background:white;
+  
+} */
+.text-center{
+text-align: center;
+}
+
+.mx-auto{
+    margin:auto;
+}
+.flex{
+ display:flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
